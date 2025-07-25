@@ -1,0 +1,21 @@
+OrderID,OrderDate,CustomerID,Region,Product,Category,Quantity,UnitPrice,TotalSale,Shipped
+101,2025-07-01,CUST-001,North,Laptop,Electronics,1,1200.00,1200.00,Yes
+102,2025-07-01,CUST-002,South,Mouse,Accessories,2,25.50,51.00,Yes
+103,2025-07-02,CUST-003,North,Keyboard,Accessories,1,75.00,75.00,No
+104,2025-07-03,CUST-001,North,Monitor,Electronics,2,300.00,600.00,Yes
+105,2025-07-04,CUST-004,West,Webcam,Accessories,1,50.00,50.00,Yes
+106,2025-07-04,CUST-005,East,Laptop,Electronics,1,1150.00,1150.00,No
+107,2025-07-05,CUST-002,South,Headphones,Accessories,1,45.00,45.00,Yes
+108,2025-07-06,CUST-006,,Mouse,Accessories,3,25.00,75.00,Yes
+109,2025-07-07,CUST-007,West,Laptop,Electronics,1,1250.00,1250.00,Yes
+110,2025-07-08,CUST-003,North,External HDD,Storage,1,90.00,90.00,No
+111,2025-07-09,CUST-008,East,Keyboard,Accessories,2,,160.00,Yes
+112,2025-07-10,CUST-001,North,Mouse,Accessories,1,26.00,26.00,Yes
+113,2025-07-11,CUST-009,South,Monitor,Electronics,1,275.00,275.00,No
+114,2025-07-12,CUST-004,West,USB Cable,Accessories,5,5.00,25.00,Yes
+115,2025-07-12,CUST-010,East,Laptop,Electronics,1,1200.00,1200.00,Yes
+116,2025-07-13,CUST-002,South,Webcam,Accessories,1,55.00,55.00,No
+117,2025-07-14,CUST-003,North,Headphones,Accessories,2,48.00,96.00,Yes
+118,2025-07-15,CUST-005,East,Mouse,Accessories,1,24.00,24.00,Yes
+119,2025-07-16,CUST-011,West,Keyboard,Accessories,1,79.00,79.00,No
+120,2025-07-17,CUST-001,North,Docking Station,Accessories,1,150.00,,Yes
