@@ -1,0 +1,5 @@
+2025-34-07/26/25 16:34:17-root-WARNING-this is a waring message
+2025-34-07/26/25 16:34:17-root-ERROR-this is an error message
+2025-34-07/26/25 16:34:17-root-CRITICAL-this is a critical message
+2025-34-07/26/25 16:34:17-root-ERROR-this is an exception message
+NoneType: None
