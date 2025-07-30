@@ -2,3 +2,5 @@ scikit-learn
 pandas
 seaborn
 bs4
+flask
+metplotlib
