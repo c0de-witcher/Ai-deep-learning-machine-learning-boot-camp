@@ -3,4 +3,5 @@ pandas
 seaborn
 bs4
 flask
-metplotlib
+matplotlib
+streamlit
